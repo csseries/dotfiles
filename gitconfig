@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clairesophie.series@gmail.com
+	name = ClaireSop√hie Series
